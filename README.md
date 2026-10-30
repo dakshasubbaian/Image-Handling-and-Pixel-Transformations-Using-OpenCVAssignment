@@ -406,6 +406,7 @@ plt.show()
 ```
 ### 24.
 ### i) Adjust Brightness
+```
 matrix = np.ones(img.shape, dtype=np.float64) * 50
 brighter = cv2.add(img, matrix.astype(np.uint8))
 darker = cv2.subtract(img, matrix.astype(np.uint8))
@@ -417,8 +418,9 @@ for i, (image, title) in enumerate([(img, 'Original'), (brighter, 'Brighter'), (
     plt.title(title)
     plt.axis('off')
 plt.show()
-
+```
 ### ii) Modify Contrast
+```
 high1 = cv2.multiply(img, 1.1)
 high2 = cv2.multiply(img, 1.2)
 
@@ -429,15 +431,16 @@ for i, (image, title) in enumerate([(img, 'Original'), (high1, 'Contrast 1.1'), 
     plt.title(title)
     plt.axis('off')
 plt.show()
-
+```
 ### iii) Generate Image Using Bitwise Operation
+```
 result = cv2.bitwise_xor(img, brighter)
 
 plt.imshow(cv2.cvtColor(result, cv2.COLOR_BGR2RGB))
 plt.title('Bitwise XOR')
 plt.axis('off')
 plt.show()
-
+```
 ## Output:
 
 - **i)** Read and Display an Image.
