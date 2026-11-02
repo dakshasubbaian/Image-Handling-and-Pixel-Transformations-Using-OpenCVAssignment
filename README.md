@@ -128,32 +128,36 @@ plt.title("Flipped Vertically")
 plt.axis("off")
 ```
 ## OUTPUT
-### Read and display grayscale and color images.
-<img width="945" height="573" alt="image" src="https://github.com/user-attachments/assets/152f87e9-112f-4ec7-8f5a-2994f2f32472" />
 
-### Cropped, resized, and flipped images.
-<img width="1216" height="669" alt="image" src="https://github.com/user-attachments/assets/a0b8deb1-a5be-4c4c-89e0-f6a18a80f65a" />
+<img width="322" height="508" alt="image" src="https://github.com/user-attachments/assets/5266924c-50a2-47d0-b92e-8661ea32e08c" />
 
-<img width="871" height="579" alt="image" src="https://github.com/user-attachments/assets/b20106e8-b033-44f2-8e40-21a4b5a74f7d" />
+<img width="331" height="507" alt="image" src="https://github.com/user-attachments/assets/189952a2-2a21-47f8-a32b-87a181e3f546" />
 
-<img width="891" height="622" alt="image" src="https://github.com/user-attachments/assets/3f449233-6d27-408b-8295-dadbb856de6b" />
+<img width="323" height="506" alt="image" src="https://github.com/user-attachments/assets/04116a6e-8e3a-44c7-b9a2-fc83d45e9a55" />
 
-### Apollo 11 image with text and rectangle annotations.
-<img width="817" height="471" alt="image" src="https://github.com/user-attachments/assets/0ec401a9-7d08-4350-997d-c8dfe045c026" />
+<img width="332" height="510" alt="image" src="https://github.com/user-attachments/assets/00f79b14-5f45-4a98-a7a0-cd98453d341d" />
 
-### Brighter and darker versions of Boy.jpg.
-<img width="1220" height="357" alt="image" src="https://github.com/user-attachments/assets/5805c7b2-8485-42b9-b9a2-59ac31cd1d1e" />
+<img width="328" height="506" alt="image" src="https://github.com/user-attachments/assets/eed77c2e-bcef-4026-9f94-0aeeab950129" />
 
+<img width="328" height="506" alt="image" src="https://github.com/user-attachments/assets/d649642f-23c8-4f51-b208-9a800c693174" />
 
-### Higher contrast images.
-<img width="1207" height="331" alt="image" src="https://github.com/user-attachments/assets/a399f032-ad7c-4621-85a5-ecc69acec9e0" />
+<img width="328" height="506" alt="image" src="https://github.com/user-attachments/assets/da2784cc-aaef-4015-8ef3-0c889e8f93d7" />
 
-### RGB and HSV channels displayed separately.
+<img width="330" height="503" alt="image" src="https://github.com/user-attachments/assets/d4c9733d-d11a-4bc3-9aa4-29ddd40ec3d2" />
 
-<img width="1052" height="753" alt="image" src="https://github.com/user-attachments/assets/4f340984-d3a2-4ce2-997c-6617cad71d50" />
+<img width="323" height="507" alt="image" src="https://github.com/user-attachments/assets/5c69f61a-1a74-44b3-bfbe-2bc4278286c4" />
 
-<img width="966" height="752" alt="image" src="https://github.com/user-attachments/assets/8b306baf-b1ac-40b4-aeb7-571bd2293a0a" />
+<img width="330" height="508" alt="image" src="https://github.com/user-attachments/assets/80bf1253-1f8e-454c-802d-ae8e6c61ace6" />
 
+<img width="367" height="510" alt="image" src="https://github.com/user-attachments/assets/2b055453-479b-43d4-9581-c57cf49e94ec" />
+
+<img width="615" height="507" alt="image" src="https://github.com/user-attachments/assets/a5a4fd92-ccd7-492a-ad61-4e48985bbf7e" />
+
+<img width="478" height="507" alt="image" src="https://github.com/user-attachments/assets/68176fd8-46cf-4aac-a8c3-4d1cf2ed1b94" />
+
+<img width="330" height="510" alt="image" src="https://github.com/user-attachments/assets/0f99435c-eb2c-4a5f-993d-20800fa2c29b" />
+
+<img width="326" height="511" alt="image" src="https://github.com/user-attachments/assets/1954dba6-df48-42fc-96e8-2b5fe20aff73" />
 
 ## RESULT
 
